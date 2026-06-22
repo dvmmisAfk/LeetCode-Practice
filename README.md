@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1189-maximum-number-of-balloons) |
+| [1592-rearrange-spaces-between-words](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1592-rearrange-spaces-between-words) |
 ## Counting
 |  |
 | ------- |
