@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
 | [2288-apply-discount-to-prices](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2288-apply-discount-to-prices) |
 | [2942-find-words-containing-character](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2942-find-words-containing-character) |
+| [3110-score-of-a-string](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3110-score-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3614-process-string-with-special-operations-ii) |
 ## Counting
