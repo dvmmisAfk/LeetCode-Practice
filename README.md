@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0172-factorial-trailing-zeroes) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2169-count-operations-to-obtain-zero](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2169-count-operations-to-obtain-zero) |
