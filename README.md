@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0013-roman-to-integer) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1189-maximum-number-of-balloons) |
 ## Math
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0334-increasing-triplet-subsequence) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0643-maximum-average-subarray-i) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1859-sorting-the-sentence) |
 ## Counting Sort
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1768-merge-strings-alternately](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
 ## String Matching
 |  |
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0069-sqrtx) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sliding Window
 |  |
