@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0069-sqrtx) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
