@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0069-sqrtx) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
+| [2169-count-operations-to-obtain-zero](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2169-count-operations-to-obtain-zero) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2169-count-operations-to-obtain-zero) |
 | [3612-process-string-with-special-operations-i](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3614-process-string-with-special-operations-ii) |
 ## Prefix Sum
