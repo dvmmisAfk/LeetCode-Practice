@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
