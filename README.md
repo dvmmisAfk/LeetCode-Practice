@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3765-complete-prime-number](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3765-complete-prime-number) |
 ## String
 |  |
 | ------- |
@@ -120,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0643-maximum-average-subarray-i) |
+## Enumeration
+|  |
+| ------- |
+| [3765-complete-prime-number](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3765-complete-prime-number) |
+## Number Theory
+|  |
+| ------- |
+| [3765-complete-prime-number](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3765-complete-prime-number) |
 <!---LeetCode Topics End-->
