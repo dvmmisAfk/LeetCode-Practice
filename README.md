@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2169-count-operations-to-obtain-zero](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2169-count-operations-to-obtain-zero) |
 | [2413-smallest-even-multiple](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2413-smallest-even-multiple) |
+| [2739-total-distance-traveled](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2739-total-distance-traveled) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2169-count-operations-to-obtain-zero](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2169-count-operations-to-obtain-zero) |
+| [2739-total-distance-traveled](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2739-total-distance-traveled) |
 | [3612-process-string-with-special-operations-i](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3614-process-string-with-special-operations-ii) |
 ## Prefix Sum
