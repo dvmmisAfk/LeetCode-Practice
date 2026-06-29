@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
 | [1859-sorting-the-sentence](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1859-sorting-the-sentence) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2288-apply-discount-to-prices](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2288-apply-discount-to-prices) |
 | [2942-find-words-containing-character](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3110-score-of-a-string) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2942-find-words-containing-character](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2942-find-words-containing-character) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3232-find-if-digit-game-can-be-won) |
