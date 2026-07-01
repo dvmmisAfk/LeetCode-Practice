@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2766-relocate-marbles](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2766-relocate-marbles) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2766-relocate-marbles](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2766-relocate-marbles) |
 | [2942-find-words-containing-character](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2942-find-words-containing-character) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1859-sorting-the-sentence) |
+| [2766-relocate-marbles](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2766-relocate-marbles) |
 | [3745-maximize-expression-of-three-elements](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3745-maximize-expression-of-three-elements) |
 ## Counting Sort
 |  |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2169-count-operations-to-obtain-zero](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2169-count-operations-to-obtain-zero) |
 | [2739-total-distance-traveled](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2739-total-distance-traveled) |
+| [2766-relocate-marbles](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2766-relocate-marbles) |
 | [3612-process-string-with-special-operations-i](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3614-process-string-with-special-operations-ii) |
 ## Prefix Sum
