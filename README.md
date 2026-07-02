@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0172-factorial-trailing-zeroes) |
+| [0972-equal-rational-numbers](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0972-equal-rational-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0972-equal-rational-numbers](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0972-equal-rational-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
