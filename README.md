@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2288-apply-discount-to-prices](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2288-apply-discount-to-prices) |
+| [2390-removing-stars-from-a-string](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3110-score-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3612-process-string-with-special-operations-i) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2169-count-operations-to-obtain-zero](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2169-count-operations-to-obtain-zero) |
+| [2390-removing-stars-from-a-string](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2390-removing-stars-from-a-string) |
 | [2739-total-distance-traveled](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2739-total-distance-traveled) |
 | [2766-relocate-marbles](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2766-relocate-marbles) |
 | [3612-process-string-with-special-operations-i](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3612-process-string-with-special-operations-i) |
@@ -170,5 +172,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2390-removing-stars-from-a-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3746-minimum-string-length-after-balanced-removals) |
 <!---LeetCode Topics End-->
