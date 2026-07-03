@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0035-search-insert-position) |
+| [0217-contains-duplicate](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0334-increasing-triplet-subsequence) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1859-sorting-the-sentence) |
