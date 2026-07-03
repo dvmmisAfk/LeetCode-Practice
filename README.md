@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0482-license-key-formatting](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0482-license-key-formatting) |
 | [0972-equal-rational-numbers](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0972-equal-rational-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1189-maximum-number-of-balloons) |
