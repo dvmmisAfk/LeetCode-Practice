@@ -1,11 +1,20 @@
 class Solution {
     public int countSeniors(String[] details) {
-        int count=0;
-        for(int i=0;i<details.length;i++){
-            int age=Integer.parseInt(details[i].substring(11,13));
-            if(age>60)
-            count++;
+        int n = details.length;
+
+        int cnt = 0;
+        for(int i = 0; i < n; i++){
+            int umar = age(details[i]);
+            if(umar > 60){
+                cnt++;
+            }
         }
-        return count;
+        return cnt;
+    }
+
+    static int age(String str){
+        int a = str.charAt(11) - '0';
+        int b = str.charAt(12) - '0';
+        return (a * 10) + b;
     }
 }
