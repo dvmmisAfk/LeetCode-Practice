@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2288-apply-discount-to-prices](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2288-apply-discount-to-prices) |
 | [2390-removing-stars-from-a-string](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2390-removing-stars-from-a-string) |
+| [2678-number-of-senior-citizens](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3110-score-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3612-process-string-with-special-operations-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2678-number-of-senior-citizens](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2678-number-of-senior-citizens) |
 | [2766-relocate-marbles](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2766-relocate-marbles) |
 | [2942-find-words-containing-character](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2942-find-words-containing-character) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3131-find-the-integer-added-to-array-i) |
