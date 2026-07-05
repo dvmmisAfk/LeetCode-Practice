@@ -7,7 +7,7 @@ class Solution {
         }
         int count=0;
         for(char c:set){
-        if(c>='A' && c<='Z' && set.contains(Character.toLowerCase(c))){
+        if(c>='A' && c<='Z' && set.contains((char)(c+32))){
                 count++;
             }
         }
