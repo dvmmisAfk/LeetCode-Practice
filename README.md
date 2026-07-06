@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0724-find-pivot-index) |
 | [1288-remove-covered-intervals](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1550-three-consecutive-odds](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1550-three-consecutive-odds) |
 | [1732-find-the-highest-altitude](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1833-maximum-ice-cream-bars) |
