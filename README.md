@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2739-total-distance-traveled](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2739-total-distance-traveled) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3280-convert-date-to-binary](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3280-convert-date-to-binary) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3280-convert-date-to-binary](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3280-convert-date-to-binary) |
 | [3612-process-string-with-special-operations-i](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3614-process-string-with-special-operations-ii) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3746-minimum-string-length-after-balanced-removals) |
