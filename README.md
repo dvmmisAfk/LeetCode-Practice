@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2678-number-of-senior-citizens) |
 | [2766-relocate-marbles](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2766-relocate-marbles) |
 | [2942-find-words-containing-character](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2942-find-words-containing-character) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
