@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2766-relocate-marbles](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2766-relocate-marbles) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Math
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1550-three-consecutive-odds](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1550-three-consecutive-odds) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1288-remove-covered-intervals](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1859-sorting-the-sentence) |
 | [2766-relocate-marbles](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2766-relocate-marbles) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0392-is-subsequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
 ## String Matching
 |  |
