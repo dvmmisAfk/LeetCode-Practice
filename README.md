@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0482-license-key-formatting) |
 | [0972-equal-rational-numbers](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0972-equal-rational-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1078-occurrences-after-bigram](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1078-occurrences-after-bigram) |
 | [1189-maximum-number-of-balloons](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
