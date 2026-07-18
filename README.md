@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2169-count-operations-to-obtain-zero) |
 | [2413-smallest-even-multiple](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2413-smallest-even-multiple) |
 | [2739-total-distance-traveled](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2739-total-distance-traveled) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2678-number-of-senior-citizens](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2678-number-of-senior-citizens) |
 | [2766-relocate-marbles](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2766-relocate-marbles) |
 | [2942-find-words-containing-character](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2942-find-words-containing-character) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/3765-complete-prime-number) |
