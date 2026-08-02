@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0836-rectangle-overlap) |
 | [0972-equal-rational-numbers](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0972-equal-rational-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -269,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0067-add-binary) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
