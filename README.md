@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
