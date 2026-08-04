@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0836-rectangle-overlap) |
+| [0877-stone-game](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0877-stone-game) |
 | [0972-equal-rational-numbers](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0972-equal-rational-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0877-stone-game](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0877-stone-game) |
 | [0922-sort-array-by-parity-ii](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1207-unique-number-of-occurrences) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Linked List
 |  |
@@ -277,4 +280,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0836-rectangle-overlap) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
