@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dvmmisAfk/LeetCode-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
